@@ -15,7 +15,6 @@ public class ExemploRepeticao {
             nota2 = gerador.nextDouble() * 10;
             System.out.println(
                     String.format("Média: %.2f", (nota1+nota2)/2));
-
         }
 
 
